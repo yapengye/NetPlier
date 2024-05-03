@@ -14,7 +14,7 @@ pgmpy==0.1.9
 torch==1.2.0
 networkx==1.11
 pandas==0.22.0
-tqdm==4.33.0
+tqdm==4.66.3
 pyparsing==2.4.2
 statsmodels==0.10.1
 joblib==0.13.2
